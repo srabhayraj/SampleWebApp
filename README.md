@@ -1,1 +1,1 @@
-Sample Web App for CI/CD Peipeline through Apache Tomcat 
+Sample Web App for CI/CD Pipeline through Apache Tomcat 
